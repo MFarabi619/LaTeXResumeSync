@@ -13,11 +13,12 @@ This project was born out of a conglomeration of many frustrations, as explained
     - My information on both resumes is 99% the same, and existing solutions for different LaTeX files to pull from a single source of truth are not great if you don't use the .bib format.
 - My interests are rapidly changing, and my skills are rapidly growing. This causes me to have to change my resumes often.
 - I used to make my resumes on Microsoft Word and Google Docs. However they are far too limited in terms of customizability, and look very generic.
-    - Word processing software is ideal for one-dimensional, linear layouts of information; and you start to hit limits with them quickly when trying to make minor formatting/layout changes.
+    - Word processing software is ideal for one-dimensional, linear layouts of information; and you start to hit limits with them quickly when trying to make minor formatting/layout changes across multiple axes.
     - You constantly need to fight the architecture of the software + the template, and sometimes you don't even know which one it is 😡💢
     - Also, the templates just look bad, and get absolutely blown out the water pretty quickly by resume maker templates, Canva and Figma templates, and of course; LaTeX templates 😍
 - I tried resume maker solutions such as [Resume.io](https://resume.io), [Resume.com](https://resume.com), [Resumegenius](https://resumegenius.com/), etc.
-    - While they do give you a very rich selection of templates to choose from, they rapidly run into customizability limitations as well; and can sometimes be even less customizable than word processing software.
+    - While they do give you a very rich selection of templates to choose from with a WSYIWYG editor, they rapidly run into customizability limitations as well; and can sometimes be even less customizable than word processing software.
+    - A single template never fits all my needs. I end up searching across different templates to identify elements that I'd like to combine into one that does fit my needs; but it's impossible because the templates weren't architected to interact with each other.
     - Womp womp 😭
 - I've tried [Canva](https://www.canva.com/resumes/templates/) and [Figma](https://www.figma.com/community/file/934117164739642551) resumes, which I must say look gorgeous 💯
     - They are infinitely customizable, which is no surprise because that is exactly what design software is made for.
@@ -26,10 +27,10 @@ This project was born out of a conglomeration of many frustrations, as explained
     - I also don't really need the templates that they offer because I've struck gold with my content formatting and the templates I currently have. 
         - I will likely use these templates for the forseeable future, and need to be able to apply pixel-perfect customizations within LaTeX code; which is where all resume makers fall short.
         - I've been making resumes for years and have attended many resume workshops. I have never found a single template that is up to my standard and meets my needs exactly.
-    - There is also but one MAJOR catch. The content is not stored in a format that is easy to migrate off of 😤
+    - There is also but one MAJOR catch. The content is not stored in a format that is easy to import/export 😤
         - Click each element with a mouse to copy paste or try to string together plugins to fill the void? No thanks 🙅‍♂️
      
-I love tables so here's a table.
+I love tables so here's a table to visualize the comparisons.
 
 | Feature                           | Microsoft Word | Google Docs | Resume Makers | Canva | Figma | LaTeX |
 |:----------------------------------|:--------------:|:-----------:|:-------------:|:-----:|:-----:|:-----:|
