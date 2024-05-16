@@ -71,7 +71,7 @@ The fact that a lot of people don't know this is a feature that Google Drive has
 
 ## Immediate steps I need to complete to address the majority of the problem
 
-This project could easily blow up into something massive and I'll probably end up trying to replace Resumake, which is not my intention. I have a limited amount of time on my hands, and need to prioritize tasks that have the greatest value. Currently, the majority of my time is spent on making content updates across the two resumes,
+This project could easily blow up into something massive and I'll probably end up trying to replace Resumake, which is not my intention. I have a limited amount of time on my hands, and need to prioritize tasks that have the greatest value. Currently, the majority of my time is spent on making content updates across the two resumes, and manually uploading them to Google drive.
 
 - Get resumes off Overleaf onto a local directory.
 - Investigate the best format in which to store my data for both resumes, including any differences. JSON? YAML? CSV?
