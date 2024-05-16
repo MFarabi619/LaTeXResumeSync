@@ -87,7 +87,7 @@ This project could easily blow up into something massive and I'll probably end u
 - This project is NOT a replacement for [Resumake](https://latexresu.me/), which is a great project you should check out.
     - While Resumake is a step in the right direction and I've considered forking it, it's far from ideal for my needs as it still runs into the same shortcomings as general resume maker solutions.
     - As the project and its userbase grows, so will the feature requests and the time/effort to maintain it, so they will likely have to incorporate premium features. It's better that I start this project now rather than later after I get locked in with them.
-- I would like to grow my skills in the the domain of back-end development, and this is an excellent opportunity.
+- I would like to grow my skills in the domain of back-end development, and this is an excellent opportunity.
     - I refuse to follow code-along tutorials and make cookie-cutter projects.
         - They don't really solve any real problems, and become abandonware that will not be maintained.
     - I prefer to learn by reading documentation and coming to my own conclusions.
@@ -98,3 +98,11 @@ This project could easily blow up into something massive and I'll probably end u
     - This is a project that that does solve a problem, and needs to solve it well.
         - I have no other choice but to maintain it and provide the best possible experience, because this is something I actively use.
     - I considered getting this project started as a hackathon submission, but this is too niche of a problem to have a meaningful impact on society.
+- Why I wrote all this?
+    - So that I myself could get clarity on EXACTLY what I want to accomplish; when, how and why.
+        - I always write a project brief for myself.
+            - The process of creating that brief often allows me to get an immense amount of clarity on my objectives and even identify flaws in my approach.
+            - Every single line of code is technical debt. I don't want my whole project to become technical debt because my objective wasn't exactly what I thought it was going to be.
+    - Also because I've quickly come to realize that most of our problems as a society are not technical, but rather communication/requirements/objectives/agendas.
+    - We often do an excellent job in the technical department, but do a very poor job around processes, project/product management, and communication.
+    - Rather than having to explain this project to someone verbally, I can simply give them the link to this repo so that they can read it as a memo.
