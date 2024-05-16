@@ -4,7 +4,7 @@ This project was born out of a conglomeration of many frustrations, as explained
 
 ## Motivation/Problem Statement
 - I am a university student that is always stretched thin for time.
-- I need to constantly apply to internships, often 4-8 months in advance.
+- I need to constantly apply to internships, often 4/8/12 months in advance.
     - By the time job postings come out, it's simply too late.
     - I need to be able to deliver a tailored, up-to-date version at the click of a button.
 - In order to cater to people's preferences, I maintain two different formats of my resume; a two-column, and a one-column.
