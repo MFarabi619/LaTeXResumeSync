@@ -44,7 +44,7 @@ I love tables so here's a table to visualize the comparisons.
 
 - I made the investment of learning LaTeX and couldn't be happier.
     - It's paying off it's dividends immensely by allowing me to achieve the same level of granular control over my resume as design tools.
-    - While that granular control comes as a speed cost, the ATS friendlyness and integration with single-source of truth for content is non-negotiable.
+    - While that granular control comes at a speed cost, the ATS friendlyness and integration with single-source of truth for content is non-negotiable.
 
 - Because I want to be able to easily manage my LaTeX files regardless of location or machine, I use [Overleaf](https://www.overleaf.com/).
     - Unfortunately their [Git/GitHub integration](https://www.overleaf.com/learn/how-to/Git_Integration_and_GitHub_Synchronization) is a premium feature. No thanks.
