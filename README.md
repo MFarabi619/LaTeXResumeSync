@@ -37,7 +37,7 @@ I love tables so here's a table to visualize the comparisons.
 | Available templates               |      ✅        |     ✅      |      ✅       |  ✅   |  ✅   |  ✅  |
 | Granular customizability          |      ❌        |     ❌      |      ❌       |  ✅   |  ✅   |  ✅  |
 | ATS Friendly                      |      ✅        |     ✅      |      ❌       |  ❌   |  ❌   |  ✅  |
-| Single source of truth for content|      ❌        |     ❌      |      ❌       |  ❌   |  ❌   |  ❌  |
+| Single source of truth for content that is easy to import/export|      ❌        |     ❌      |      ❌       |  ❌   |  ❌   |  ❌  |
 
 
 ## Steps I've taken to address the problem, and why they're not good enough
