@@ -29,15 +29,42 @@ This project was born out of a conglomeration of many frustrations, as explained
     - There is also but one MAJOR catch. The content is not stored in a format that is easy to migrate off of 😤
         - Click each element with a mouse to copy paste or try to string together plugins to fill the void? No thanks 🙅‍♂️
      
+I love tables so here's a table.
+
+| Feature                           | Microsoft Word | Google Docs | Resume Makers | Canva | Figma | LaTeX |
+|:----------------------------------|:--------------:|:-----------:|:-------------:|:-----:|:-----:|:-----:|
+| Available templates               |      ✅        |     ✅      |      ✅       |  ✅   |  ✅   |  ✅  |
+| Granular customizability          |      ❌        |     ❌      |      ❌       |  ✅   |  ✅   |  ✅  |
+| ATS Friendly                      |      ✅        |     ✅      |      ❌       |  ❌   |  ❌   |  ✅  |
+| Single source of truth for content|      ❌        |     ❌      |      ❌       |  ❌   |  ❌   |  ❌  |
+
+
 ## Steps I've taken to address the problem, and why they're not good enough
-- Once a resume is exported to a PDF and sent via email, it is a snapshot of my skills and experience at that time. In order to address this, I uploaded my file to Google Drive:
-![image](https://github.com/MFarabi619/LaTeXResumeSync/assets/54924158/dd99e4e7-624a-430f-ab3b-37380e65773b)
+
+- I made the investment of learning LaTeX and couldn't be happier.
+    - It's paying off it's dividends immensely by allowing me to achieve the same level of granular control over my resume as design tools.
+    - While that granular control comes as a speed cost, the ATS friendlyness and integration with single-source of truth for content is non-negotiable.
+
+- Because I want to be able to easily manage my LaTeX files regardless of location or machine, I use [Overleaf](https://www.overleaf.com/).
+    - Unfortunately their [Git/GitHub integration](https://www.overleaf.com/learn/how-to/Git_Integration_and_GitHub_Synchronization) is a premium feature. No thanks.
+    - But thanks for motivating me to start this project and grow my skills to find a workaround.
+    - [It's also open-source](https://github.com/overleaf/overleaf/wiki), and GitHub integration may be possible if I run a local instance of it.
+        - This way I also don't have to set up the rendering UI myself and would save a lot duplicate effort. To be investigated 🤔🧐
+
+- I make my edits for both resumes on OverLeaf, and then download the pdfs. I first have to delete any existing pdfs in my machine's downloads folder so that the new resumes don't have an annoying `(1)` after them 😤
+
+- Once a resume is exported to a PDF and sent via email, it is a snapshot of my skills and experience at that time rather than being a living, up-to-date document. In order to address this, I uploaded my file to Google Drive:
+![image](https://github.com/MFarabi619/LaTeXResumeSync/assets/54924158/8e342a37-0aab-4c05-802d-1a81a67ff5f4)
 
 Then clicked on `Manage Versions`, then uploaded my new resume, so that I don't have to deal with stuff like this 👉 `resume_version_34_final_I_swear(42)` 🤣
 
-![image](https://github.com/MFarabi619/LaTeXResumeSync/assets/54924158/932b20ba-8b7c-4275-bfff-d5848620fd48)
+![image](https://github.com/MFarabi619/LaTeXResumeSync/assets/54924158/1f33cf58-b060-4f49-a7ad-cd69117700cd)
+
 
 The fact that a lot of people don't know this is a feature that Google Drive has blows my mind but that's a conversation for another day 💭
+
+- Now I have my resume hosted on a google drive link, which is much easier to share than a pdf (hyperlink, QR code, etc). It will also always contain the latest version of my resume. 
+     - However this whole process is repetitive, very tedious, tiring, time-consuming, and error-prone.
 
 ## Steps I need to complete to address this problem once and for all
 - 
