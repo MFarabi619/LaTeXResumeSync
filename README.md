@@ -19,6 +19,7 @@ This project was born out of a conglomeration of many frustrations, as explained
 - I tried resume maker solutions such as [Resume.io](https://resume.io), [Resume.com](https://resume.com), [Resumegenius](https://resumegenius.com/), etc.
     - While they do give you a very rich selection of templates to choose from with a WSYIWYG editor, they rapidly run into customizability limitations as well; and can sometimes be even less customizable than word processing software.
     - A single template never fits all my needs. I end up searching across different templates to identify elements that I'd like to combine into one that does fit my needs; but it's impossible because the templates weren't architected to interact with each other.
+    - Another crushing limitation is that in particular platforms/templates you can't always hyperlink/format specific words, which is something I do heavily in my resumes.
     - Womp womp 😭
 - I've tried [Canva](https://www.canva.com/resumes/templates/) and [Figma](https://www.figma.com/community/file/934117164739642551) resumes, which I must say look gorgeous 💯
     - They are infinitely customizable, which is no surprise because that is exactly what design software is made for.
@@ -75,7 +76,7 @@ This project could easily blow up into something massive and I'll probably end u
 - Get resumes off Overleaf onto a local directory.
 - Investigate the best format in which to store my data for both resumes, including any differences. JSON? YAML? CSV?
     - It needs to be human readable, editable, and convertable to LaTeX.
-    - The ideal outcome is that I don't have to write any LaTeX code for content. I'm okay with having to modify the LaTeX templates for spacing, that's a rare task that cannot be automated because it's heavily dependant on content.
+    - The ideal outcome is that I don't have to write any LaTeX code for content. I'm okay with having to modify the LaTeX templates for spacing, that's a rare task that cannot be automated because it's heavily dependent on the content.
 
 ## Nice to have so that the problem is solved once and for all
 - Automate the process of uploading resumes to simplify.
