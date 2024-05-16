@@ -69,7 +69,7 @@ The fact that a lot of people don't know this is a feature that Google Drive has
      - However this whole process is repetitive, very tedious, tiring, time-consuming, and error-prone.
      - I also use [Simplify](https://simplify.jobs/) to apply to jobs, so I have to update my resume there as well.
 
-## Immediate steps I need to complete to address the amjority of the problem
+## Immediate steps I need to complete to address the majority of the problem
 
 This project could easily blow up into something massive and I'll probably end up trying to replace Resumake, which is not my intention. I have a limited amount of time on my hands, and need to prioritize tasks that have the greatest value. Currently, the majority of my time is spent on making content updates across the two resumes,
 
