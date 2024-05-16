@@ -83,5 +83,18 @@ This project could easily blow up into something massive and I'll probably end u
 - Move off LaTeX and just code out the resume in a web app that the user can interact with.
 
 
-What this project is NOT:
-- A replacement for [Resumake](https://latexresu.me/), which is a great project you should check out. While Resumake is a step in the right direction and I've considered forking it, it's far from ideal for my needs as it still runs into the same shortcomings as general resume maker solutions. As the project and its userbase grows, they will likely have to incorporate premium features. It's better that I start this project now rather than later after I get locked in with them.
+## Additional Thoughts
+- This project is NOT a replacement for [Resumake](https://latexresu.me/), which is a great project you should check out.
+    - While Resumake is a step in the right direction and I've considered forking it, it's far from ideal for my needs as it still runs into the same shortcomings as general resume maker solutions.
+    - As the project and its userbase grows, so will the feature requests and the time/effort to maintain it, so they will likely have to incorporate premium features. It's better that I start this project now rather than later after I get locked in with them.
+- I would like to grow my skills in the the domain of back-end development, and this is an excellent opportunity.
+    - I refuse to follow code-along tutorials and make cookie-cutter projects.
+        - They don't really solve any real problems, and become abandonware that will not be maintained.
+    - I prefer to learn by reading documentation and coming to my own conclusions.
+        - I learn much faster. Videos are too slow and/or skip over the difficult parts.
+        - You don't get to skip the difficult parts in real life.
+            - There will be times when you will feel like throwing your monitor across the room. Better to feel it now than later.
+        - I figure out the best practices along the way, and the knowledge sticks far better.
+    - This is a project that that does solve a problem, and needs to solve it well.
+        - I have no other choice but to maintain it and provide the best possible experience, because this is something I actively use.
+    - I considered getting this project started as a hackathon submission, but this is too niche of a problem to have a meaningful impact on society.
