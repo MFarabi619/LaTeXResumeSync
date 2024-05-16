@@ -6,7 +6,7 @@ This project was born out of a conglomeration of many frustrations, as explained
 - I am a university student that is always stretched thin for time.
 - I need to constantly apply to internships, often 4/8/12 months in advance.
     - By the time job postings come out, it's simply too late.
-    - I need to be able to deliver a tailored, up-to-date version at the click of a button.
+    - I need to be able to deliver a tailored, up-to-date version of my resume at the click of a button.
 - In order to cater to people's preferences, I maintain two different formats of my resume; a two-column, and a one-column.
     - Both have content baked into their layouts. Every time I need to make a change, I need to make it to both resumes. This violates [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
     - This is very time-consuming and I've spent entire evenings having to update my resumes. This madness needs to stop ✌️🛑
@@ -65,9 +65,20 @@ The fact that a lot of people don't know this is a feature that Google Drive has
 
 - Now I have my resume hosted on a google drive link, which is much easier to share than a pdf (hyperlink, QR code, etc). It will also always contain the latest version of my resume. 
      - However this whole process is repetitive, very tedious, tiring, time-consuming, and error-prone.
+     - I also use [Simplify](https://simplify.jobs/) to apply to jobs, so I have to update my resume there as well.
 
-## Steps I need to complete to address this problem once and for all
-- 
+## Immediate steps I need to complete to address the amjority of the problem
+
+This project could easily blow up into something massive and I'll probably end up trying to replace Resumake, which is not my intention. I have a limited amount of time on my hands, and need to prioritize tasks that have the greatest value. Currently, the majority of my time is spent on making content updates across the two resumes,
+
+- Get resumes off Overleaf onto a local directory.
+- Investigate the best format in which to store my data for both resumes, including any differences. JSON? YAML? CSV?
+    - It needs to be human readable, editable, and convertable to LaTeX.
+    - The ideal outcome is that I don't have to write any LaTeX code for content. I'm okay with having to modify the LaTeX templates for spacing, that's a rare task that cannot be automated because it's heavily dependant on content.
+
+## Nice to have so that the problem is solved once and for all
+- Automate the process of uploading resumes to simplify.
+- Move off LaTeX and just code out the resume in a web app that the user can interact with.
 
 
 What this project is NOT:
