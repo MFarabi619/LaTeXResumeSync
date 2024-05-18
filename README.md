@@ -44,7 +44,7 @@ I love tables so here's a table to visualize the comparisons.
 ## Steps I've taken to address the problem, and why they're not good enough
 
 - I made the investment of learning LaTeX and couldn't be happier.
-    - It's paying off it's dividends immensely by allowing me to achieve the same level of granular control over my resume as design tools.
+    - It's paying off itss dividends immensely by allowing me to achieve the same level of granular control over my resume as design tools.
     - While that granular control comes at a speed cost, the ATS friendlyness and integration with single-source of truth for content is non-negotiable.
 
 - Because I want to be able to easily manage my LaTeX files regardless of location or machine, I use [Overleaf](https://www.overleaf.com/).
@@ -76,6 +76,7 @@ This project could easily blow up into something massive and I'll probably end u
 - Get resumes off Overleaf onto a local directory.
 - Investigate the best format in which to store my data for both resumes, including any differences. JSON? YAML? CSV?
     - It needs to be human readable, editable, and convertable to LaTeX.
+    - Possibly using [Sanity](https://www.sanity.io/) as a content lake that can serve as a single source of truth for my GitHub README, Personal Portfolio Website, and my resume.
     - The ideal outcome is that I don't have to write any LaTeX code for content. I'm okay with having to modify the LaTeX templates for spacing, that's a rare task that cannot be automated because it's heavily dependent on the content.
 
 ## Nice to have so that the problem is solved once and for all
