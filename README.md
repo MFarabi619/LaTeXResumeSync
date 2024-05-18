@@ -17,7 +17,7 @@ This project was born out of a conglomeration of many frustrations, as explained
     - You constantly need to fight the architecture of the software + the template, and sometimes you don't even know which one it is 😡💢
     - Also, the templates just look bad, and get absolutely blown out the water pretty quickly by resume maker templates, Canva and Figma templates, and of course; LaTeX templates 😍
 - I tried resume maker solutions such as [Resume.io](https://resume.io), [Resume.com](https://resume.com), [Resumegenius](https://resumegenius.com/), etc.
-    - While they do give you a very rich selection of templates to choose from with a WSYIWYG editor, they rapidly run into customizability limitations as well; and can sometimes be even less customizable than word processing software.
+    - While they do give you a very rich selection of templates to choose from with a WYSIWYG editor, they rapidly run into customizability limitations as well; and can sometimes be even less customizable than word processing software.
     - A single template never fits all my needs. I end up searching across different templates to identify elements that I'd like to combine into one that does fit my needs; but it's impossible because the templates weren't architected to interact with each other.
     - Another crushing limitation is that in particular platforms/templates you can't always hyperlink/format specific words, which is something I do heavily in my resumes.
     - Womp womp 😭
