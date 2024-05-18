@@ -78,6 +78,7 @@ This project could easily blow up into something massive and I'll probably end u
     - It needs to be human readable, editable, and convertable to LaTeX.
     - Possibly using [Sanity](https://www.sanity.io/) as a content lake that can serve as a single source of truth for my GitHub README, Personal Portfolio Website, and my resume.
     - The ideal outcome is that I don't have to write any LaTeX code for content. I'm okay with having to modify the LaTeX templates for spacing, that's a rare task that cannot be automated because it's heavily dependent on the content.
+- Write a script that uses the [Google Drive API](https://developers.google.com/drive/api/guides/about-sdk) to update the file versions whenever a change is detected.
 
 ## Nice to have so that the problem is solved once and for all
 - Automate the process of uploading resumes to simplify.
