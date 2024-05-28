@@ -44,7 +44,7 @@ I love tables so here's a table to visualize the comparisons.
 ## Steps I've taken to address the problem, and why they're not good enough
 
 - I made the investment of learning LaTeX and couldn't be happier.
-    - It's paying off itss dividends immensely by allowing me to achieve the same level of granular control over my resume as design tools.
+    - It's paying off its dividends immensely by allowing me to achieve the same level of granular control over my resume as design tools.
     - While that granular control comes at a speed cost, the ATS friendlyness and integration with single-source of truth for content is non-negotiable.
 
 - Because I want to be able to easily manage my LaTeX files regardless of location or machine, I use [Overleaf](https://www.overleaf.com/).
